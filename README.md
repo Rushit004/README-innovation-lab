@@ -4,8 +4,8 @@
 [🏠 Profile](https://github.com/Rushit004) &nbsp;·&nbsp;
 [⚡ Skill Forge](https://github.com/Rushit004/README-skill-forge) &nbsp;·&nbsp;
 **🧪 Innovation Lab** &nbsp;·&nbsp;
-[📊 Data Arena](https://github.com/Rushit004/Rushit004) &nbsp;·&nbsp;
-[🚀 LaunchPad](https://github.com/Rushit004/Rushit004)
+[📊 Data Arena](https://github.com/Rushit004/README-data-arena) &nbsp;·&nbsp;
+[🚀 LaunchPad](https://github.com/Rushit004/README-launchpad)
 
 </div>
 
