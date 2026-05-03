@@ -54,7 +54,7 @@ This is my academic builds zone. Every repo here started as a course requirement
 ![Systems](https://img.shields.io/badge/Systems%20Programming-6D28D9?style=flat-square)
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/bitshift)
-![Status](https://img.shields.io/badge/Status-Complete-a78bfa?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
 
 ---
 
