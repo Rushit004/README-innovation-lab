@@ -52,6 +52,20 @@ This is my academic builds zone. Every repo here started as a course requirement
 
 ---
 
+### [amazon-product-rating-analysis](https://github.com/Rushit004/amazon-product-rating-analysis)
+> An AI & ML project that analyzes Amazon product data, explores pricing and discount trends, and predicts high-rated products using Machine Learning models.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6D28D9?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0EA5E9?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/amazon-product-rating-analysis)
+![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
+
+---
+
 <div align="center">
 <sub>
 <a href="https://github.com/Rushit004">← Back to Profile</a> &nbsp;·&nbsp;
