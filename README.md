@@ -1,4 +1,3 @@
-<!-- NAVIGATION BAR -->
 <div align="center">
 
 [🏠 Profile](https://github.com/Rushit004) &nbsp;·&nbsp;
@@ -28,24 +27,6 @@ This is my academic builds zone. Every repo here started as a course requirement
 
 ---
 
-<!--
-=======================================================
-  HOW TO ADD A NEW PROJECT
-  Copy the block below, paste after the last project,
-  and fill in the three things: name, link, one-liner
-=======================================================
-
-### [Project Name](https://github.com/Rushit004/REPO-NAME)
-> One-liner describing what this repo is about.
-
-![TAG](https://img.shields.io/badge/Tag-Color?style=flat-square)
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/REPO-NAME)
-![Status](https://img.shields.io/badge/Status-Complete-a78bfa?style=for-the-badge)
-
----
--->
-
 ### [bitshift](https://github.com/Rushit004/bitshift)
 > A comprehensive command-line toolkit for number system conversions and calculations across multiple bases — built in pure C.
 
@@ -58,7 +39,18 @@ This is my academic builds zone. Every repo here started as a course requirement
 
 ---
 
-<!-- ADD YOUR NEXT PROJECT ABOVE THIS LINE -->
+### [sparkle](https://github.com/Rushit004/sparkle)
+> A front-end e-commerce store for premium volleyball equipment with cart and auth features.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Frontend Web](https://img.shields.io/badge/Frontend%20Web-6D28D9?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/sparkle)
+![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
+
+---
 
 <div align="center">
 <sub>
