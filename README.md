@@ -66,7 +66,6 @@ This is my academic builds zone. Every repo here started as a course requirement
 
 ---
 
-
 ### [signal-degradation-visualizer](https://github.com/Rushit004/signal-degradation-visualizer)
 
 > A browser-based interactive tool that visualizes how signals degrade across 9 transmission media — with a live oscilloscope waveform, BER calculation, and character-level corruption. Built for Data Communications.
@@ -83,6 +82,22 @@ This is my academic builds zone. Every repo here started as a course requirement
 
 ---
 
+### [os-process-lifecycle-simulator](https://github.com/Rushit004/os-process-lifecycle-simulator)
+
+> A browser-based OS simulator that brings the 7-state process model to life — spawn processes, trigger I/O, preempt the CPU, call fork() and exec(), and watch every state transition happen live down to the register level. Built for Operating Systems.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-6D28D9?style=flat-square)
+![SVG](https://img.shields.io/badge/SVG-0EA5E9?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/os-process-lifecycle-simulator)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://process-lifecycle-simulator-os.netlify.app/)
+![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
+
+---
+
 <div align="center">
 <sub>
 <a href="https://github.com/Rushit004">← Back to Profile</a> &nbsp;·&nbsp;
@@ -93,3 +108,4 @@ This is my academic builds zone. Every repo here started as a course requirement
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:2d1b69,100:0d0d1a&height=80&section=footer" />
+</div>
