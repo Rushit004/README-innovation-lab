@@ -66,6 +66,23 @@ This is my academic builds zone. Every repo here started as a course requirement
 
 ---
 
+
+### [signal-degradation-visualizer](https://github.com/Rushit004/signal-degradation-visualizer)
+
+> A browser-based interactive tool that visualizes how signals degrade across 9 transmission media — with a live oscilloscope waveform, BER calculation, and character-level corruption. Built for Data Communications.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Data Communications](https://img.shields.io/badge/Data%20Communications-6D28D9?style=flat-square)
+![Canvas API](https://img.shields.io/badge/Canvas%20API-0EA5E9?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/signal-degradation-visualizer)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://signal-degradation-visualizer.netlify.app/)
+![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
+
+---
+
 <div align="center">
 <sub>
 <a href="https://github.com/Rushit004">← Back to Profile</a> &nbsp;·&nbsp;
