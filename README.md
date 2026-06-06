@@ -98,6 +98,21 @@ This is my academic builds zone. Every repo here started as a course requirement
 
 ---
 
+### [carbon-trading-platform](https://github.com/Rushit004/carbon-trading-platform)
+
+> A Java HTTP server + browser SPA that simulates a live carbon credit and renewable energy marketplace — prosumers register solar/wind/hydro sources, calculate credits via emission factor formulae, and list them; companies buy to meet offset goals. Built for the Innovative Subject.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Innovative Subject](https://img.shields.io/badge/Innovative%20Subject-6D28D9?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-0EA5E9?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/carbon-trading-platform)
+![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
+
+---
 
 ### [dsa-mini-chess](https://github.com/Rushit004/dsa-mini-chess)
 > A terminal-based 4×4 chess game in C++ — Graphs validate moves, Stacks power undo, Arrays hold the board.
