@@ -106,7 +106,7 @@ This is my academic builds zone. Every repo here started as a course requirement
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-![Innovative Subject](https://img.shields.io/badge/Innovative%20Subject-6D28D9?style=flat-square)
+![Java Programming](https://img.shields.io/badge/Java%20Programming-6D28D9?style=flat-square)
 ![REST API](https://img.shields.io/badge/REST%20API-0EA5E9?style=flat-square)
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/carbon-trading-platform)
