@@ -98,6 +98,19 @@ This is my academic builds zone. Every repo here started as a course requirement
 
 ---
 
+
+### [dsa-mini-chess](https://github.com/Rushit004/dsa-mini-chess)
+> A terminal-based 4×4 chess game in C++ — Graphs validate moves, Stacks power undo, Arrays hold the board.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-6D28D9?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/dsa-mini-chess)
+![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
+
+---
+
 <div align="center">
 <sub>
 <a href="https://github.com/Rushit004">← Back to Profile</a> &nbsp;·&nbsp;
